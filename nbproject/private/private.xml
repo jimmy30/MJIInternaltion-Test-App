@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Projects/MJInter/resources/views/admin/users/edit.blade.php</file>
+            <file>file:/E:/Projects/MJInter/resources/views/admin/users/index.blade.php</file>
+            <file>file:/E:/Projects/MJInter/routes/web.php</file>
+            <file>file:/E:/Projects/MJInter/resources/views/layouts/admin.blade.php</file>
+            <file>file:/E:/Projects/MJInter/resources/views/admin/users/add.blade.php</file>
+            <file>file:/E:/Projects/MJInter/app/Http/Requests/user.php</file>
+            <file>file:/E:/Projects/MJInter/app/Http/Controllers/Admin/UserController.php</file>
+            <file>file:/E:/Projects/MJInter/config/app.php</file>
+        </group>
+    </open-files>
+</project-private>
